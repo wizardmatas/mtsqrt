@@ -2,7 +2,7 @@
 Implementing my own sqrt function in compare to math.Sqrt
 
 ```
-go run train.go
+go run mtSqrt.go
 Iteration and z value 1 1.5
 Iteration and e value  1 0.25
 1.5
